@@ -1,0 +1,26 @@
+{
+  "dataset": "nsl-kdd",
+  "kind": "recorded",
+  "seed": 2,
+  "limit": 180,
+  "features": [
+    "duration",
+    "src_bytes",
+    "dst_bytes",
+    "logged_in",
+    "num_failed_logins",
+    "is_guest_login",
+    "count",
+    "srv_count",
+    "serror_rate",
+    "rerror_rate",
+    "same_srv_rate",
+    "diff_srv_rate",
+    "dst_host_count",
+    "dst_host_srv_count",
+    "dst_host_same_srv_rate",
+    "dst_host_serror_rate"
+  ],
+  "train_n": 125,
+  "test_n": 55
+}

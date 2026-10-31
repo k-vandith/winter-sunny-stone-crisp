@@ -1,0 +1,22 @@
+{
+  "dataset": "unsw-nb15",
+  "kind": "scenario",
+  "seed": 10,
+  "limit": 1400,
+  "features": [
+    "dur",
+    "spkts",
+    "dpkts",
+    "sbytes",
+    "dbytes",
+    "rate",
+    "sttl",
+    "sload",
+    "dload",
+    "sinpkt",
+    "ct_srv_src",
+    "ct_state_ttl"
+  ],
+  "train_n": 980,
+  "test_n": 420
+}

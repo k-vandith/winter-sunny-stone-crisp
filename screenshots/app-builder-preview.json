@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AdversarialShield",
+      "hasCanvas": false,
+      "bodyTextLen": 843,
+      "bodyTextHash": "7b5be04aff021246935a905410adc0e12555757fde5528849678d18e11e41380",
+      "bodyTextPrefix": "KLEF · CSE · CAPSTONE I AdversarialShield A working attack, defe",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AdversarialShield",
+      "hasCanvas": false,
+      "bodyTextLen": 930,
+      "bodyTextHash": "b32a36d108cfeca5bec39d094bfab23aba2b7071b6925a50fad86f69da7d6173",
+      "bodyTextPrefix": "KLEF · CSE · CAPSTONE I AdversarialShield A working attack, defe",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

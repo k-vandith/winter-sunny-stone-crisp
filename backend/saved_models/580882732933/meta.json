@@ -1,0 +1,22 @@
+{
+  "dataset": "cicids2017",
+  "kind": "scenario",
+  "seed": 10,
+  "limit": 1400,
+  "features": [
+    "flow_duration",
+    "tot_fwd_pkts",
+    "tot_bwd_pkts",
+    "flow_byts_s",
+    "flow_pkts_s",
+    "pkt_len_mean",
+    "flow_iat_mean",
+    "syn_flag",
+    "ack_flag",
+    "fwd_init_win",
+    "bwd_init_win",
+    "idle_mean"
+  ],
+  "train_n": 980,
+  "test_n": 420
+}
